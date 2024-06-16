@@ -1,6 +1,6 @@
 const a = "Himanshu";
-const b = "Priyanka";
-const c = "Kamli";
+const b = "Pradeep";
+const c = "Shanku";
 const d = "Akash";
 
 export default a;
